@@ -1,0 +1,33 @@
+/* 共通 */
+#main {
+    margin-left: 2em;
+}
+
+/* index */
+.error {
+    color: red;
+}
+
+/* index & confirm */
+.content {
+    width: 350px;
+    padding: 1em 0;
+    border-bottom: solid 1px gray;
+}
+
+span {
+    color: red;
+}
+
+.button {
+    margin: 1em 0;
+}    
+
+/* confirm */
+#confirm_content {
+    width: 300px;
+}
+
+dt {
+    background-color: rgb(241, 238, 238);
+}
